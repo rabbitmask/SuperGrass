@@ -10,7 +10,7 @@
 '''
 from fake_useragent import UserAgent
 '''
-    User Demo：
+    Usage：
     print(ua.ie)
     print(ua.opera)
     print(ua.chrome)

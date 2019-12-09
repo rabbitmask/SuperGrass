@@ -17,5 +17,5 @@ from Modules.DirPath.optionsMethod import OptionsMethod
 from Modules.DirPath.robots import Robots
 from Modules.DirPath.svn import Svn
 
-DirPathLDic={}
+DirPathList=['ApacheServerStatus','CrossDomain','Git','JetBrainsWorkspace','JspConfig','OptionsMethod','Robots','Svn']
 

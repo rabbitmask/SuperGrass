@@ -8,17 +8,10 @@
 |_| \_\__,_|_.__/|_.__/|_|\__|_|  |_|\__,_|___/_|\_\
 
 '''
-from Extra.banner import banner
-from Extra.usage import parser
-import sys
-from Scaner.dirPathScan import DirpathScan
+import argparse
 
+parser = argparse.ArgumentParser()
 
-if __name__ == '__main__':
-    banner()
-    args = parser.parse_args()
-    print(args)
-    if args.durl:
-        DirpathScan(args.durl)
-    elif args.url:
-        pass
+parser.add_argument("-u", "--url", help="请输入目标地址开启全自动探测")
+parser.add_argument("-d", "--dirpath", dest='durl',help="路径泄露单模块扫描")
+
