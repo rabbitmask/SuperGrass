@@ -34,3 +34,10 @@ Namespace(durl='http://www.xxx.com', url=None)
 [+]存在options方法开启...(敏感信息)     payload: http://www.xxx.com  Allow:POST,OPTIONS,GET,HEAD
 
 ```
+### 成员鸣谢
+
+[Tide_nuoyan](https://www.jianshu.com/u/58a5f9e596a7)
+
+[Tide_CSeroad](http://cseroad.xyz)
+
+Tide_子弹
