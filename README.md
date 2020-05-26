@@ -1,6 +1,10 @@
 # SuperGrass
 网络渗透侦测平台，start~
 
+### 项目死在了襁褓中，该项目作为主动式扫描模块并入资产狩猎框架AssetsHunter
+项目地址：[https://github.com/rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter)
+
+
     唉?你们是怎么发现这里的，
     居然已经悄咪咪start了，
     项目确实悄悄开始了，
