@@ -2,8 +2,10 @@
 网络渗透侦测平台，start~
 
 ### 停止维护
-项目死在了襁褓中，该项目作为主动式扫描模块并入资产狩猎框架AssetsHunter，感谢关注
-项目地址：[https://github.com/rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter)
+  项目死在了襁褓中，该项目作为主动式扫描模块并入资产狩猎框架AssetsHunter，感谢关注
+  
+### AssetsHunter项目地址：
+  [https://github.com/rabbitmask/AssetsHunter](https://github.com/rabbitmask/AssetsHunter)
 
 
 
